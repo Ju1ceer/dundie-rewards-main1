@@ -1,0 +1,8 @@
+pytest
+flake8==4.0.1
+pyproject-flake8
+isort
+pytest-forked
+mypy
+types-setuptools
+
